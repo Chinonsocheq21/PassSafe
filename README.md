@@ -1,4 +1,4 @@
-# PassSafe
+# PassSafeApp
 
 A secure password manager built with Swift and SwiftUI.
 
