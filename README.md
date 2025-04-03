@@ -39,9 +39,11 @@ This project was built as a learning exercise for a beginner in Swift. Resources
 - Apple's SwiftUI Tutorials.
 - Hacking with Swift (100 Days of SwiftUI).
 - Kodeco's Swift Apprentice.
+- Stack Overflow
+- FreeCodeCamp
 
 ## Future Improvements
 - Add a "Copy to Clipboard" button.
 - Integrate a real email notification service (e.g., Mailgun).
-- Enhance UI with custom designs.# PassSafe
+- Enhance UI with custom designs.
 
